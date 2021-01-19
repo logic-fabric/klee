@@ -1,2 +1,3 @@
-# klee
-An opinionated CSS framework - Jan 2021
+# klee - Jan 2021
+
+An opinionated front-end framework in Vanilla CSS.
